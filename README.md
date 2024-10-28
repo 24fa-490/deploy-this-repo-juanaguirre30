@@ -27,4 +27,4 @@ _Comments and feedback welcome!_
 
 # Where am I deployed?
 
-https://deploy-this-repo-juanaguirre30-490-qqzq068co.vercel.app/
+https://deploy-this-repo-juanaguirre30-490.vercel.app/
